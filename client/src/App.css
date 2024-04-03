@@ -1,0 +1,207 @@
+.header {
+  background-color: #1f2937;
+}
+.logo {
+  color: #f9faf8;
+  font-size: 24px;
+  padding: 0px 0px 0px 175px;
+}
+
+.navigation_bar a {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 0px 0px 0px auto;
+  float: right;
+  padding: 0px 50px 0px 0px;
+}
+
+span.navigation_bar a:link {
+  text-decoration: none;
+}
+
+span.navigation_bar a:visited {
+  text-decoration: none;
+}
+
+span.navigation_bar a:hover {
+  text-decoration: none;
+}
+
+span.navigation_bar a:active {
+  text-decoration: none;
+}
+
+.article1 {
+  background-color: #1f2937;
+}
+
+.section1 {
+  display: flex;
+  margin: 0 0 0 150;
+}
+
+.section1_box1 {
+  flex: 1;
+  padding: 2%;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.section1_box1 h3 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  text-align: justify;
+  margin: 20px 0 20px 0;
+}
+
+.signup {
+  background-color: #3882f6;
+  color: white;
+  padding: 12px 24px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.section1_box2 {
+  flex: 1;
+  padding: 2%;
+}
+
+.section3 {
+  background-color: #e5e7eb;
+  text-align: center;
+  margin: 75 0 0 0;
+  height: 300px;
+}
+
+.section3 p {
+  margin: 0 0 0 0;
+  padding: 75px 300px 50px 300px;
+  text-align: justify;
+  font-size: 36px;
+  font-style: italic;
+}
+
+.section4 {
+  margin: 50 0 0 0;
+  height: 300px;
+}
+
+.section4_flex {
+  display: flex;
+  margin: 0 150 0 150;
+  padding: 20px 0px 0px 0px;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: #3882f6;
+}
+
+.section4_box1 {
+  flex: 1;
+  padding: 2%;
+  color: white;
+}
+
+.section4_box1 h3 {
+  text-align: justify;
+}
+
+
+.place_toright {
+  float: right;
+  background-color: #3882f6;
+  color: white;
+  padding: 12px 24px;
+  font-size: 14px;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.article1{
+  background-color: #1f2937;
+
+}
+
+button.place_right {
+  float: right;
+}
+
+button.place_center{
+  float: center;
+}
+.section4_box2 {
+  flex: 1;
+  padding: 5%;
+  margin: 0 0 0 30;
+}
+
+p.footer {
+  font-family: verdana;
+  font-size: 10px;
+  padding: 20px 20px 20px 20px;
+  background-color: #1f2937;
+  text-align: center;
+  color: #f9faf8;
+}
+
+/* ContactUsPage.css */
+.contact-us-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-item {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.location-map {
+  margin-top: 40px;
+}
+
+.location-map img {
+  max-width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* AboutUsPage.css */
+.about-us-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.platform-description {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.ott-section,
+.shopping-section {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.team-member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.team-member img {
+  width: 100px;
+  margin-right: 20px;
+}
