@@ -1,6 +1,6 @@
 # Ecommerce Web Application
 
-# To run the frontend
+# To run the frontend 
  
  cd client
  ### `npm start
