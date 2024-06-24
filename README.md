@@ -10,7 +10,7 @@
  cd server
 ### `npm start
 
-# Frontend UI
+# Frontend UI 
 ### Signup Page
 ![image](https://github.com/Deva52500/Ecommerce_Webapp/assets/50032741/5aa44297-d5f7-473f-99a4-7bfd49a239df)
 
